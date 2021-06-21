@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HotelScan</string>
+    <string name="ajustes">Settings</string>
+    <string name="buscar">Search</string>
+    <string name="fav">Favorites</string>
+    <string name="Ciudad">City</string>
+    <string name="Opciones">Options</string>
+    <string name="NumeroPer">Persons</string>
+    <string name="Puntuacion">Rate:</string>
+    <string name="Precio">Price:</string>
+    <string name="Situado">Located in:</string>
+    <string name="añadir">ADD TO FAVORITES</string>
+    <string name="añadido">Added to favorites</string>
+    <string name="destino">Destination</string>
+    <string name="indica">Indicate your favorite destination</string>
+    <string name="noencontrada">City not found</string>
+    <string name="nodisponible">Not available</string>
+    <string name="reciente">Last searches</string>
+    <string name="reciente_vacio">No recent searches</string>
+    <string name="No_fav">You haven\'t added any hotels to favorites</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:defaultValue=""
+        android:key="pref_ciudad"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="@string/indica"
+        android:title="@string/destino"
+        />
+
+</PreferenceScreen>

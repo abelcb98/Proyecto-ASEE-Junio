@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">HotelScan</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="buscar">Buscador</string>
+    <string name="fav">Favoritos</string>
+    <string name="Ciudad">Ciudad</string>
+    <string name="Opciones">Opciones</string>
+    <string name="NumeroPer">Personas</string>
+    <string name="Puntuacion">Puntuacion:</string>
+    <string name="Precio">Precio:</string>
+    <string name="Situado">Situado en:</string>
+    <string name="añadir">AÑADIR A FAVORITOS</string>
+    <string name="añadido">Añadido</string>
+    <string name="destino">Destino</string>
+    <string name="indica">Indica tu destino favorito</string>
+    <string name="noencontrada">Ciudad no encontrada</string>
+    <string name="nodisponible">No disponible</string>
+    <string name="reciente_vacio">No hay busquedas recientes</string>
+    <string name="No_fav">No has añadido ningún hotel a favoritos</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string-array name="Idioma">
+        <item>Español</item>
+        <item>Inglés</item>
+    </string-array>
+
+    <string-array name="Idioma_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string name="reciente">Últimas busquedas</string>
+
+
+</resources>
